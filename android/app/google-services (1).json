@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846412854830",
+    "project_id": "stl-portal",
+    "storage_bucket": "stl-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846412854830:android:ad230ea5f4a28e963a11bf",
+        "android_client_info": {
+          "package_name": "com.example.stc_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846412854830-27p7v9504r5gfsqgphju3q159jqmc87g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVo3Ap90ZxTQsWO9d-ZMypW-PLqaCD64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846412854830-27p7v9504r5gfsqgphju3q159jqmc87g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
